@@ -1,0 +1,3 @@
+imagename: nginx
+replicaCount: 1
+service: {}
